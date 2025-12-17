@@ -1472,13 +1472,6 @@ git commit -m "feat: add new sensor type support"
 
 # 6. Push and create pull request
 git push origin feature/your-feature-name
-```
-
-### Code Style
-
-- **C++**: Google C++ Style Guide
-- **Python**: PEP 8 with Black formatter
-- **JavaScript/React**: Airbnb Style Guide with Prettier
 
 ---
 
