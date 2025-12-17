@@ -1,19 +1,5 @@
 <div align="center">
 
-# 🔐 SmartAccess
-### IoT-Based Access Control System
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white)](https://mqtt.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-
-[🌐 Live Demo](#) | [📖 Documentation](#) | [🐛 Report Bug](#)
-
-![SmartAccess Banner](banner.png)
-
 *Advanced IoT-based access control system for smart buildings with real-time monitoring and intelligent alerts*
 
 </div>
