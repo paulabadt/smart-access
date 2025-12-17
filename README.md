@@ -271,6 +271,10 @@ smartaccess/
 
 ![Sensors Panel](sensors-panel.png)
 
+### 3. Alerts System
+
+![Alerts Panel](alerts-panel.png)
+
 ---
 
 ## 💾 Installation
