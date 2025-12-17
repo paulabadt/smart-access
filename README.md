@@ -269,7 +269,7 @@ smartaccess/
 
 ### 2. Sensor Management Panel
 
-![Sensors Panel]([sensors-panel.png](https://github.com/paulabadt/smart-access/raw/main/sensor.png)
+![Sensors Panel](https://github.com/paulabadt/smart-access/raw/main/sensor.png)
 
 ### 3. Alerts System
 
