@@ -260,18 +260,20 @@ smartaccess/
 
 ## 📸 Capturas de Pantalla
 
+**Nota:** Las imágenes mostradas son simulaciones creadas con fines demostrativos. El proyecto InvoiceFlow fue desarrollado para el SENA (Servicio Nacional de Aprendización), quien posee los derechos de propiedad intelectual. Las capturas de pantalla no corresponden a la aplicación original y han sido recreadas para propósitos de portfolio sin comprometer información confidencial de la institución.
+
 ### 1. Dashboard Principal
 
-![Dashboard](dashboard-screenshot.png)
+![Dashboard](https://github.com/paulabadt/smart-access/raw/main/ppal.png)
 
 
 ### 2. Panel de Gestión de Sensores
 
-![Panel de Sensores](sensors-panel.png)
+![Panel de Sensores](https://github.com/paulabadt/smart-access/raw/main/sensor.png))
 
 ### 3. Sistema de Alertas
 
-![Panel de Alertas](alerts-panel.png)
+![Panel de Alertas](https://github.com/paulabadt/smart-access/raw/main/alerts.png)
 
 ---
 
