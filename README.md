@@ -80,8 +80,6 @@ public:
 
 ### 📊 Real-Time Dashboard
 
-![Dashboard Screenshot](dashboard.png)
-
 **Dashboard Components:**
 - Live access event feed
 - Active sensor status monitoring
