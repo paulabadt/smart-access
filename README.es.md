@@ -260,7 +260,7 @@ smartaccess/
 
 ## 📸 Capturas de Pantalla
 
-**Nota:** Las imágenes mostradas son simulaciones creadas con fines demostrativos. El proyecto InvoiceFlow fue desarrollado para el SENA (Servicio Nacional de Aprendización), quien posee los derechos de propiedad intelectual. Las capturas de pantalla no corresponden a la aplicación original y han sido recreadas para propósitos de portfolio sin comprometer información confidencial de la institución.
+**Nota:** Las imágenes mostradas son simulaciones creadas con fines demostrativos. El proyecto fue desarrollado para el SENA (Servicio Nacional de Aprendización), quien posee los derechos de propiedad intelectual. Las capturas de pantalla no corresponden a la aplicación original y han sido recreadas para propósitos de portfolio sin comprometer información confidencial de la institución.
 
 ### 1. Dashboard Principal
 
