@@ -1464,13 +1464,6 @@ git commit -m "feat: agregar soporte para nuevo tipo de sensor"
 
 # 6. Push y crear pull request
 git push origin feature/nombre-de-tu-caracteristica
-```
-
-### Estilo de Código
-
-- **C++**: Guía de Estilo de Google C++
-- **Python**: PEP 8 con formateador Black
-- **JavaScript/React**: Guía de Estilo Airbnb con Prettier
 
 ---
 
