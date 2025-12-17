@@ -1498,10 +1498,4 @@ This project was developed during research work at SENA (National Learning Servi
 
 For educational and portfolio purposes, this documentation demonstrates the technical implementation and system design.
 
----
 
-<div align="center">
-
-**⚠️ Note:** This project was developed as part of research and training activities at SENA. The code and applications are property of SENA and have been recreated for portfolio demonstration purposes.
-
-</div>
