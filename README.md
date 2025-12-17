@@ -262,16 +262,16 @@ smartaccess/
 
 ### 1. Main Dashboard
 
-![Dashboard](dashboard-screenshot.png)
+![Dashboard](https://github.com/paulabadt/smart-access/raw/main/ppal.png)
 
 
 ### 2. Sensor Management Panel
 
-![Sensors Panel](sensors-panel.png)
+![Sensors Panel]([sensors-panel.png](https://github.com/paulabadt/smart-access/raw/main/sensor.png)
 
 ### 3. Alerts System
 
-![Alerts Panel](alerts-panel.png)
+![Alerts Panel](https://github.com/paulabadt/smart-access/raw/main/alerts.png)
 
 ---
 
