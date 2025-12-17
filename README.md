@@ -260,7 +260,7 @@ smartaccess/
 
 ## 📸 Screenshots
 
-**Note:** The images shown are simulations created for demonstration purposes. The InvoiceFlow project was developed for SENA (Servicio Nacional de Aprendizaje - National Learning Service), which owns the intellectual property rights. The screenshots do not correspond to the original application and have been recreated for portfolio purposes without compromising confidential information of the institution.
+**Note:** The images shown are simulations created for demonstration purposes. The project was developed for SENA (Servicio Nacional de Aprendizaje - National Learning Service), which owns the intellectual property rights. The screenshots do not correspond to the original application and have been recreated for portfolio purposes without compromising confidential information of the institution.
 
 ### 1. Main Dashboard
 
