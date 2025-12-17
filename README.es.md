@@ -80,8 +80,6 @@ public:
 
 ### 📊 Dashboard en Tiempo Real
 
-![Captura del Dashboard](dashboard.png)
-
 **Componentes del Dashboard:**
 - Feed en vivo de eventos de acceso
 - Monitoreo del estado de sensores activos
